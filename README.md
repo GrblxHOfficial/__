@@ -3,7 +3,7 @@ Uhm This Is Unofficial Script To Modify OrionLib, Open Sourced
 # How To Use (v1.0 Alpha)
 ```lua
 -- Load
-local Orionlib_Edit = loadstring(game:HttpGet("https://raw.githubusercontent.com/GrblxHOfficial/OrionLib_Edit/main/source.lua"))()
+local OrionLib_Edit = loadstring(game:HttpGet("https://raw.githubusercontent.com/GrblxHOfficial/OrionLib_Edit/main/source.lua"))()
 
 -- Every Function
 
