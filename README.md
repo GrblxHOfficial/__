@@ -1,5 +1,5 @@
 # OrionLib_Edit
-Uhm This Is Unofficial Script To Modify OrionLib, Open Sourced
+Uhm This Is Unofficial Script To Modify OrionLib
 # How To Use (v1.0 Alpha)
 ```lua
 -- Load
