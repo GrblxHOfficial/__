@@ -2,8 +2,8 @@
 Uhm This Is Unofficial Script To Modify OrionLib
 # How To Use
 ```lua
--- Load
-local OrionLib_Edit = loadstring(game:HttpGet("https://raw.githubusercontent.com/GrblxHOfficial/OrionLib_Edit/main/source.lua"))()
+-- Load (Adding Global OrionLib_Edit)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrblxHOfficial/OrionLib_Edit/main/source.lua"))()
 
 -- Every Function
 
