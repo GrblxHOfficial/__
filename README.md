@@ -26,7 +26,7 @@ OrionLib_Edit.EditTopBar("ChangeTitleTextColor", Color3.new(0, 0.666667, 1))
 OrionLib_Edit.EditTopBar("ChangeTopBarBackgroundColor", Color3.new(0, 0.666667, 1))
 
 -- Edit Section
-OrionLib_Edit.EditSection = function(TabName, SectionName, ToChange, Args)
+OrionLib_Edit.EditSection(TabName, SectionName, ToChange, Args)
 -- Examples
 OrionLib_Edit.EditSection("AutoFarm", "Main", "ChangeName", "New Name")
 OrionLib_Edit.EditSection("AutoFarm", "Main", "ChangeTextColor", Color3.new(0, 0.666667, 1))
