@@ -50,7 +50,7 @@ OrionLib_Edit.EditSectionObject("Player", "Main", "Slider", "WalkSpeed", "Change
 OrionLib_Edit.EditSectionObject("Player", "Main", "Slider", "WalkSpeed", "ChangeSliderValueColor", Color3.new(0, 0.666667, 1))
 -- Examples : ColorPicker
 OrionLib_Edit.EditSectionObject("Aim", "Main", "ColorPicker", "FOV Color", "ChangeName", "Im Tired Of Writing This.")
-OrionLib_Edit.EditSectionObject("Aim", "Main", "ColorPicker", "FOV Color", "ChnageTextColor", Color3.new(0, 0.666667, 1))
+OrionLib_Edit.EditSectionObject("Aim", "Main", "ColorPicker", "FOV Color", "ChangeTextColor", Color3.new(0, 0.666667, 1))
 
 -- Edit Tab Object
 OrionLib_Edit.EditTabObject(TabName, ObjectType, ObjectName, ToChange, Args)
